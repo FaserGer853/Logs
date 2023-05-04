@@ -3,7 +3,7 @@
 
 ![logo 350](https://user-images.githubusercontent.com/90092906/236025011-d42c4ee8-624a-4656-92d5-5f120d49a18e.png)
 
-```Note: This module is updating every week, so be sure to check the updates frequently!```
+Note: This module is updating every week, so be sure to check the updates frequently!
 
 1. [Default values](https://github.com/FaserGer853/Logs/edit/main/README.md#default-values)
 2. [How to use my module?](https://github.com/FaserGer853/Logs/edit/main/README.md#how-to-use-my-module)
